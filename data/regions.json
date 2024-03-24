@@ -1,0 +1,50 @@
+{
+  "regions": [
+    {
+      "name": "North America",
+      "id": 1,
+      "countries": [
+        {
+          "name": "USA",
+          "id": 1
+        },
+        {
+          "name": "Canada",
+          "id": 2
+        }
+      ]
+    },
+    {
+      "name": "Europe",
+      "id": 2,
+      "countries": [
+        {
+          "name": "UK",
+          "id": 3
+        },
+        {
+          "name": "Germany",
+          "id": 4
+        },
+        {
+          "name": "France",
+          "id": 5
+        }
+      ]
+    },
+    {
+      "name": "Oceania",
+      "id": 3,
+      "countries": [
+        {
+          "name": "Australia",
+          "id": 6
+        },
+        {
+          "name": "New Zealand",
+          "id": 7
+        }
+      ]
+    }
+  ]
+}

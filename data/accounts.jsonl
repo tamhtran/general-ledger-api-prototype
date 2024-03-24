@@ -1,0 +1,54 @@
+{"Account_key":10,"Report":"Balance Sheet","Class":"Assets","SubClass":"Assets","SubClass2":"Current Assets","Account":"Cash & Cash Equivalents","SubAccount":"Cash at Bank"}
+{"Account_key":20,"Report":"Balance Sheet","Class":"Assets","SubClass":"Assets","SubClass2":"Current Assets","Account":"Cash & Cash Equivalents","SubAccount":"Cash in hand"}
+{"Account_key":30,"Report":"Balance Sheet","Class":"Assets","SubClass":"Assets","SubClass2":"Current Assets","Account":"Receivables","SubAccount":"Trade Receivables"}
+{"Account_key":40,"Report":"Balance Sheet","Class":"Assets","SubClass":"Assets","SubClass2":"Current Assets","Account":"Receivables","SubAccount":"Other Receivables"}
+{"Account_key":41,"Report":"Balance Sheet","Class":"Assets","SubClass":"Assets","SubClass2":"Current Assets","Account":"Receivables","SubAccount":"Interest Receivable"}
+{"Account_key":42,"Report":"Balance Sheet","Class":"Assets","SubClass":"Assets","SubClass2":"Current Assets","Account":"Receivables","SubAccount":"Dividend Receivable"}
+{"Account_key":50,"Report":"Balance Sheet","Class":"Assets","SubClass":"Assets","SubClass2":"Current Assets","Account":"Receivables","SubAccount":"Allowance for Bad Debt"}
+{"Account_key":60,"Report":"Balance Sheet","Class":"Assets","SubClass":"Assets","SubClass2":"Current Assets","Account":"Inventory","SubAccount":"Inventory"}
+{"Account_key":70,"Report":"Balance Sheet","Class":"Assets","SubClass":"Assets","SubClass2":"Current Assets","Account":"Other Current Assets","SubAccount":"Prepaid Expenses"}
+{"Account_key":75,"Report":"Balance Sheet","Class":"Assets","SubClass":"Assets","SubClass2":"Current Assets","Account":"Investments","SubAccount":"Securities"}
+{"Account_key":80,"Report":"Balance Sheet","Class":"Assets","SubClass":"Assets","SubClass2":"Non-Current Assets","Account":"Property, Plant, & Equipment","SubAccount":"Land & Buildings"}
+{"Account_key":90,"Report":"Balance Sheet","Class":"Assets","SubClass":"Assets","SubClass2":"Non-Current Assets","Account":"Property, Plant, & Equipment","SubAccount":"Office Furniture & Equipment"}
+{"Account_key":100,"Report":"Balance Sheet","Class":"Assets","SubClass":"Assets","SubClass2":"Non-Current Assets","Account":"Intangible Assets","SubAccount":"Patents and trademarks"}
+{"Account_key":110,"Report":"Balance Sheet","Class":"Liabilities and Owners Equity","SubClass":"Liabilities","SubClass2":"Current Liabilities","Account":"Trade Payables","SubAccount":"Trade Payables"}
+{"Account_key":120,"Report":"Balance Sheet","Class":"Liabilities and Owners Equity","SubClass":"Liabilities","SubClass2":"Current Liabilities","Account":"Other Payables","SubAccount":"Accrued Expenses"}
+{"Account_key":121,"Report":"Balance Sheet","Class":"Liabilities and Owners Equity","SubClass":"Liabilities","SubClass2":"Current Liabilities","Account":"Other Payables","SubAccount":"Interest Payable"}
+{"Account_key":122,"Report":"Balance Sheet","Class":"Liabilities and Owners Equity","SubClass":"Liabilities","SubClass2":"Current Liabilities","Account":"Other Payables","SubAccount":"Tax payable"}
+{"Account_key":130,"Report":"Balance Sheet","Class":"Liabilities and Owners Equity","SubClass":"Liabilities","SubClass2":"Current Liabilities","Account":"Other Payables","SubAccount":"Salaries payable"}
+{"Account_key":135,"Report":"Balance Sheet","Class":"Liabilities and Owners Equity","SubClass":"Liabilities","SubClass2":"Current Liabilities","Account":"Other Payables","SubAccount":"Dividends payable"}
+{"Account_key":140,"Report":"Balance Sheet","Class":"Liabilities and Owners Equity","SubClass":"Liabilities","SubClass2":"Current Liabilities","Account":"Other Current Liabilities","SubAccount":"Other Current Liabilities"}
+{"Account_key":150,"Report":"Balance Sheet","Class":"Liabilities and Owners Equity","SubClass":"Liabilities","SubClass2":"Current Liabilities","Account":"Current Installments of Long-term Debt","SubAccount":"Current Installments of Long-term Debt"}
+{"Account_key":160,"Report":"Balance Sheet","Class":"Liabilities and Owners Equity","SubClass":"Liabilities","SubClass2":"Long Term Liabilities","Account":"Long Term Obligations","SubAccount":"Long Term Obligations"}
+{"Account_key":170,"Report":"Balance Sheet","Class":"Liabilities and Owners Equity","SubClass":"Liabilities","SubClass2":"Long Term Liabilities","Account":"Other Long Term Liabilities","SubAccount":"Other Long Term Liabilities"}
+{"Account_key":180,"Report":"Balance Sheet","Class":"Liabilities and Owners Equity","SubClass":"Owners Equity","SubClass2":"Share Capital","Account":"Share Capital","SubAccount":"Share Capital"}
+{"Account_key":190,"Report":"Balance Sheet","Class":"Liabilities and Owners Equity","SubClass":"Owners Equity","SubClass2":"Share Premium","Account":"Share Premium","SubAccount":"Share Premium"}
+{"Account_key":200,"Report":"Balance Sheet","Class":"Liabilities and Owners Equity","SubClass":"Owners Equity","SubClass2":"Retained Earnings","Account":"Retained Earnings","SubAccount":"Retained Earnings"}
+{"Account_key":201,"Report":"Balance Sheet","Class":"Liabilities and Owners Equity","SubClass":"Owners Equity","SubClass2":"Retained Earnings","Account":"Dividends paid","SubAccount":"Dividends paid"}
+{"Account_key":210,"Report":"Profit and Loss","Class":"Trading account","SubClass":"Sales","SubClass2":"Sales","Account":"Sales","SubAccount":"Sales"}
+{"Account_key":220,"Report":"Profit and Loss","Class":"Trading account","SubClass":"Sales","SubClass2":"Sales","Account":"Sales Return","SubAccount":"Sales Return"}
+{"Account_key":230,"Report":"Profit and Loss","Class":"Trading account","SubClass":"Cost of Sales","SubClass2":"Cost of Sales","Account":"Cost of Sales","SubAccount":"Cost of Sales"}
+{"Account_key":240,"Report":"Profit and Loss","Class":"Operating account","SubClass":"Operating Expenses","SubClass2":"Sales & Distribution","Account":"Staff Costs","SubAccount":"Salaries"}
+{"Account_key":250,"Report":"Profit and Loss","Class":"Operating account","SubClass":"Operating Expenses","SubClass2":"Sales & Distribution","Account":"Bad Debt Expense","SubAccount":"Bad Debt Expense"}
+{"Account_key":260,"Report":"Profit and Loss","Class":"Operating account","SubClass":"Operating Expenses","SubClass2":"Marketing","Account":"Commissions","SubAccount":"Commissions"}
+{"Account_key":270,"Report":"Profit and Loss","Class":"Operating account","SubClass":"Operating Expenses","SubClass2":"Marketing","Account":"Conferences","SubAccount":"Conferences"}
+{"Account_key":280,"Report":"Profit and Loss","Class":"Operating account","SubClass":"Operating Expenses","SubClass2":"Marketing","Account":"Advertisements","SubAccount":"Advertisements"}
+{"Account_key":290,"Report":"Profit and Loss","Class":"Operating account","SubClass":"Operating Expenses","SubClass2":"Administration","Account":"Travel","SubAccount":"Travel"}
+{"Account_key":300,"Report":"Profit and Loss","Class":"Operating account","SubClass":"Operating Expenses","SubClass2":"Administration","Account":"Entertainment","SubAccount":"Entertainment"}
+{"Account_key":310,"Report":"Profit and Loss","Class":"Operating account","SubClass":"Operating Expenses","SubClass2":"Administration","Account":"Office Supplies","SubAccount":"Office Supplies"}
+{"Account_key":320,"Report":"Profit and Loss","Class":"Operating account","SubClass":"Operating Expenses","SubClass2":"Administration","Account":"Professional Services","SubAccount":"Professional Services"}
+{"Account_key":330,"Report":"Profit and Loss","Class":"Operating account","SubClass":"Operating Expenses","SubClass2":"Administration","Account":"Telephone","SubAccount":"Telephone"}
+{"Account_key":340,"Report":"Profit and Loss","Class":"Operating account","SubClass":"Operating Expenses","SubClass2":"Administration","Account":"Utilities","SubAccount":"Utilities"}
+{"Account_key":350,"Report":"Profit and Loss","Class":"Operating account","SubClass":"Operating Expenses","SubClass2":"Administration","Account":"Other Expenses","SubAccount":"Other Expenses"}
+{"Account_key":360,"Report":"Profit and Loss","Class":"Operating account","SubClass":"Operating Expenses","SubClass2":"Administration","Account":"Rent","SubAccount":"Rent"}
+{"Account_key":370,"Report":"Profit and Loss","Class":"Operating account","SubClass":"Depreciation & Amortization","SubClass2":"Depreciation","Account":"Vehicles","SubAccount":"Vehicles"}
+{"Account_key":380,"Report":"Profit and Loss","Class":"Operating account","SubClass":"Depreciation & Amortization","SubClass2":"Depreciation","Account":"Equipment","SubAccount":"Equipment"}
+{"Account_key":390,"Report":"Profit and Loss","Class":"Operating account","SubClass":"Depreciation & Amortization","SubClass2":"Depreciation","Account":"Furniture and Fixtures","SubAccount":"Furniture and Fixtures"}
+{"Account_key":400,"Report":"Profit and Loss","Class":"Operating account","SubClass":"Depreciation & Amortization","SubClass2":"Amortization","Account":"Amortization of Intangible Assets","SubAccount":"Amortization of Intangible Assets"}
+{"Account_key":410,"Report":"Profit and Loss","Class":"Non-operating","SubClass":"Interest Income","SubClass2":"Interest Income","Account":"Interest Income","SubAccount":"Interest Income"}
+{"Account_key":420,"Report":"Profit and Loss","Class":"Non-operating","SubClass":"Gain\/Loss on Sales of Asset","SubClass2":"Gain\/Loss on Sales of Asset","Account":"Gain\/Loss on Sales of Asset","SubAccount":"Gain\/Loss on Sales of Asset"}
+{"Account_key":430,"Report":"Profit and Loss","Class":"Non-operating","SubClass":"Exchange Loss\/Gain","SubClass2":"Exchange Loss\/Gain","Account":"Exchange Loss\/Gain","SubAccount":"Exchange Loss\/Gain"}
+{"Account_key":431,"Report":"Profit and Loss","Class":"Non-operating","SubClass":"Dividend Income","SubClass2":"Dividend Income","Account":"Dividend Income","SubAccount":"Dividend Income"}
+{"Account_key":440,"Report":"Profit and Loss","Class":"Interest & Tax","SubClass":"Interest Expense","SubClass2":"Interest Expense","Account":"Interest Expense","SubAccount":"Interest Expense"}
+{"Account_key":450,"Report":"Profit and Loss","Class":"Interest & Tax","SubClass":"Taxation","SubClass2":"Taxation","Account":"Taxation","SubAccount":"Taxation"}
+{"Account_key":1010,"Report":"Adjusting","Class":"Adjusting","SubClass":"Adjusting","SubClass2":"Adjusting","Account":"Adjusting","SubAccount":"Adjusting"}

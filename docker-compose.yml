@@ -1,0 +1,38 @@
+version: '3.8'
+
+services:
+  web:
+    build: ./project
+    command: uvicorn app.main:app --reload --workers 1 --host 0.0.0.0 --port 8000
+
+    volumes:
+      - ./project:/usr/src/app
+
+    ports:
+      - 8000:8000
+    environment:
+      - ENVIRONMENT=dev
+      - TESTING=0
+      - DATABASE_URL=postgres://postgres:postgres@web-db:5432/web_dev
+      - DATABASE_URL_TEST=postgres://postgres:postgres@web-db:5432/web_test
+    depends_on:
+        - web-db
+
+  # the web service is dependent on
+#  1. the container being up and running
+#  2. the database being up and healthy
+#  -> add entrypoint.sh file to the project directory
+  web-db:
+    build:
+      context: ./project/db
+      dockerfile: Dockerfile
+    expose: # expose port 5432 to be linked to the web container
+      - 5432
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    volumes:
+      - ./data:/tmp/data  # Mount the data directory
+    ports: # for local development
+      - "5432:5432"
+
